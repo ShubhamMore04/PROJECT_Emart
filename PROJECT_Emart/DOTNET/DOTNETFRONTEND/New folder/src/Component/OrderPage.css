@@ -1,0 +1,122 @@
+.invoice-page {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.invoice-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.invoice-header h1 {
+  color: #333;
+}
+
+.invoice-header hr {
+  border: none;
+  border-top: 2px solid #007bff;
+  width: 80%;
+  margin: 10px auto;
+}
+
+.invoice-date {
+  font-size: 14px;
+  color: #666;
+}
+
+.invoice-customer-details {
+  margin-bottom: 20px;
+}
+
+.customer-field {
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.invoice-products {
+  margin-bottom: 20px;
+  text-align: center; /* Center align the order details */
+}
+
+.product {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.product-details {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px; /* Limit the width of order details */
+}
+
+.invoice-totals {
+  margin-top: 20px;
+}
+
+.invoice-field {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.confirm-button,
+.back-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.confirm-button:hover,
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.confirm-button:disabled,
+.back-button:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+.confirm-button:disabled:hover,
+.back-button:disabled:hover {
+  background-color: #6c757d;
+}
+
+.invoice-products {
+  margin-bottom: 20px;
+}
+
+.invoice-products table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.invoice-products th,
+.invoice-products td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.invoice-products th {
+  background-color: #f2f2f2;
+}
+
+.product-details {
+  margin: 0 auto; /* Center align the product details */
+  max-width: 600px; /* Limit the width of product details */
+}
+

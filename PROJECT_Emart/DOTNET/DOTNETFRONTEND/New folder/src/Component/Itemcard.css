@@ -1,0 +1,23 @@
+.item-card {
+  width: 250px; /* Set the width of the card */
+  height: 350px; /* Set the height of the card */
+  margin-bottom: 20px;
+  position: relative; /* Set position to relative */
+}
+
+.card-image {
+  flex-grow: 1; /* Ensure the image fills the available space */
+  object-fit: cover; /* Maintain aspect ratio while covering the available space */
+}
+
+.card-title {
+  position: absolute; /* Set position to absolute */
+  bottom: 0; /* Position the title at the bottom */
+  left: 0; /* Position the title at the left */
+  width: 100%; /* Set width to 100% */
+  padding: 10px; /* Add padding for spacing */
+  background-color: rgba(0, 0, 0, 0.5); /* Add background color for better readability */
+  color: #fff; /* Set text color to white */
+  text-align: center; /* Center-align the text */
+  box-sizing: border-box; /* Include padding and border in the width */
+}

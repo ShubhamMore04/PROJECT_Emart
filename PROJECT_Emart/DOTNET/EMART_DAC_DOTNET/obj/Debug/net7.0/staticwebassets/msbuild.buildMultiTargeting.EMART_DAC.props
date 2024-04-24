@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EMART_DAC.props" />
+</Project>

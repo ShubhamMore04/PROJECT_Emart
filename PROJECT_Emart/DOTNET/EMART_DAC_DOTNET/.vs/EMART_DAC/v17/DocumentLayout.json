@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\productmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\productmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iproductmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iproductmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\ordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\invoicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\invoicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\invoicedetailsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\invoicedetailsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\configmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\configmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\configdetailmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\configdetailmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\categorymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\models\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:models\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\ordermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\ordermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iordermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iordermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\invoicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\invoicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iinvoicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iinvoicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\invoicedetailsmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\invoicedetailsmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iinvoicedetailsmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iinvoicedetailsmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\customermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\customermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\icustomermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\icustomermasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\configmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\configmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iconfigmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iconfigmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\configdetailmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\configdetailmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\iconfigdetailmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\iconfigdetailmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\categorymasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\categorymasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\icategorymasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\icategorymasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\implementations\\cartmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\implementations\\cartmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\dal\\interfaces\\icartmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:dal\\interfaces\\icartmasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\productpdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\productpdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\ordermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\ordermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\invoicemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\invoicemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\invoicedetailsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\invoicedetailsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\customermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\customermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\configmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\configmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\configdetailmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\configdetailmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\categorymastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\categorymastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\controllers\\cartmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:controllers\\cartmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|b:\\cdac\\emart_c-dac_project\\dotnet\\emart_dac_dotnet\\emart_dac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCDBAF07-9443-48CA-8E3B-FA791DEF8B8F}|EMART_DAC.csproj|solutionrelative:emart_dac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ProductMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ProductMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ProductMaster.cs",
+              "RelativeToolTip": "Models\\ProductMaster.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:19:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ProductMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ProductMasterController.cs",
+              "RelativeToolTip": "Controllers\\ProductMasterController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwH8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:11:20.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IProductMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IProductMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IProductMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IProductMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:16:15.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ProductMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\ProductMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ProductMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\ProductMasterRepository.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:16:22.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:19:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceDetailsMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\InvoiceDetailsMaster.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceDetailsMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\InvoiceDetailsMaster.cs",
+              "RelativeToolTip": "Models\\InvoiceDetailsMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:12.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-10T10:19:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T10:19:14.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\OrderMaster.cs",
+              "RelativeDocumentMoniker": "Models\\OrderMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\OrderMaster.cs",
+              "RelativeToolTip": "Models\\OrderMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:59.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\InvoiceMaster.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\InvoiceMaster.cs",
+              "RelativeToolTip": "Models\\InvoiceMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customermaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\Customermaster.cs",
+              "RelativeDocumentMoniker": "Models\\Customermaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\Customermaster.cs",
+              "RelativeToolTip": "Models\\Customermaster.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfigMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ConfigMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ConfigMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ConfigMaster.cs",
+              "RelativeToolTip": "Models\\ConfigMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:18:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfigDetailMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ConfigDetailMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ConfigDetailMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\ConfigDetailMaster.cs",
+              "RelativeToolTip": "Models\\ConfigDetailMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:17:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryMaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\CategoryMaster.cs",
+              "RelativeDocumentMoniker": "Models\\CategoryMaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\CategoryMaster.cs",
+              "RelativeToolTip": "Models\\CategoryMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:17:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cartmaster.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\Cartmaster.cs",
+              "RelativeDocumentMoniker": "Models\\Cartmaster.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Models\\Cartmaster.cs",
+              "RelativeToolTip": "Models\\Cartmaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:17:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAOEBAAAAAAAAAAAQwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:16:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\OrderMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\OrderMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\OrderMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\OrderMasterRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:16:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOrderMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IOrderMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IOrderMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:54.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvoiceMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\InvoiceMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\InvoiceMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\InvoiceMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\InvoiceMasterRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:43.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IInvoiceMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IInvoiceMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IInvoiceMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IInvoiceMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IInvoiceMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvoiceDetailsMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\InvoiceDetailsMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\InvoiceDetailsMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\InvoiceDetailsMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\InvoiceDetailsMasterRepository.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IInvoiceDetailsMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IInvoiceDetailsMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IInvoiceDetailsMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IInvoiceDetailsMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IInvoiceDetailsMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:15:08.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\EmailService.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "DAL\\Implementations\\EmailService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:14:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICustomermasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICustomermasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICustomermasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICustomermasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICustomermasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:14:06.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConfigMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ConfigMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\ConfigMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ConfigMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\ConfigMasterRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:13:50.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IConfigMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IConfigMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IConfigMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IConfigMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IConfigMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:13:41.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigDetailMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ConfigDetailMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\ConfigDetailMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\ConfigDetailMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\ConfigDetailMasterRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:13:27.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomermasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CustomermasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\CustomermasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CustomermasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\CustomermasterRepository.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:14:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IConfigDetailMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IConfigDetailMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IConfigDetailMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\IConfigDetailMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IConfigDetailMasterRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:13:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CategoryMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\CategoryMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CategoryMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\CategoryMasterRepository.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryMasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICategoryMasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICategoryMasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICategoryMasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICategoryMasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:47.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartmasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CartmasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\CartmasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Implementations\\CartmasterRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\CartmasterRepository.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:21.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICartmasterRepository.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICartmasterRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICartmasterRepository.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\DAL\\Interfaces\\ICartmasterRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICartmasterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:09.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductPDFExporter.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ProductPDFExporter.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductPDFExporter.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ProductPDFExporter.cs",
+              "RelativeToolTip": "Controllers\\ProductPDFExporter.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:11:36.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\OrderMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\OrderMasterController.cs",
+              "RelativeToolTip": "Controllers\\OrderMasterController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:11:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InvoiceMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\InvoiceMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\InvoiceMasterController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceMasterController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:10:50.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InvoiceDetailsMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\InvoiceDetailsMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceDetailsMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\InvoiceDetailsMasterController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceDetailsMasterController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:10:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:10:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomermasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CustomermasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomermasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CustomermasterController.cs",
+              "RelativeToolTip": "Controllers\\CustomermasterController.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:09:41.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConfigMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ConfigMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ConfigMasterController.cs",
+              "RelativeToolTip": "Controllers\\ConfigMasterController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:09:18.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ConfigDetailMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ConfigDetailMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigDetailMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\ConfigDetailMasterController.cs",
+              "RelativeToolTip": "Controllers\\ConfigDetailMasterController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:08:56.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryMasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CategoryMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryMasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CategoryMasterController.cs",
+              "RelativeToolTip": "Controllers\\CategoryMasterController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:08:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartmasterController.cs",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CartmasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartmasterController.cs",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Controllers\\CartmasterController.cs",
+              "RelativeToolTip": "Controllers\\CartmasterController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:08:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T10:07:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EMART_DAC.csproj",
+              "DocumentMoniker": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\EMART_DAC.csproj",
+              "RelativeDocumentMoniker": "EMART_DAC.csproj",
+              "ToolTip": "B:\\CDAC\\EMART_C-DAC_PROJECT\\DOTNET\\EMART_DAC_DOTNET\\EMART_DAC.csproj",
+              "RelativeToolTip": "EMART_DAC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T10:07:17.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

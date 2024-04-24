@@ -1,0 +1,44 @@
+.navbar-custom {
+    background-color: #5bffe9;
+    padding: 1rem 2rem;
+    border-bottom: 2px solid #fcfcfc;
+    display: flex; /* Use flexbox */
+    justify-content: space-between; /* Align items to the ends */
+    align-items: center; /* Center items vertically */
+}
+
+.navbar-custom .nav-link {
+    color: black; /* Change to white */
+    font-weight: 700;
+}
+
+.navbar-custom .nav-link.active {
+    color: #00b3ff;
+}
+
+.navbar-custom .dropdown-menu {
+    background-color: #343a40;
+}
+
+.navbar-custom .dropdown-menu a {
+    color: #ffffff; /* Change to white */
+}
+
+.navbar-custom .dropdown-menu a:hover {
+    color: #007bff;
+}
+
+.navbar-custom .navbar-brand svg {
+    fill: #ffffff; /* Change to white */
+    margin-right: 0.5rem;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand > a {
+    color: #00d0ff; /* Change to your desired color */
+    text-decoration: none; /* Remove underline */
+}
+
+.navbar-custom .navbar-brand {
+    padding-left: 20px; /* Adjust the value to add space */
+}

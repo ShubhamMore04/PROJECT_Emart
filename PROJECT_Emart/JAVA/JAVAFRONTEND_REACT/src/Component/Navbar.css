@@ -1,0 +1,33 @@
+/* navbar.css */
+
+.navbar-custom {
+    background-color: #343a40;
+    padding: 1rem 2rem;
+    border-bottom: 2px solid #f8f9fa;
+}
+
+.navbar-custom .nav-link {
+    color: #f8f9fa;
+    font-weight: 500;
+}
+
+.navbar-custom .nav-link.active {
+    color: #00b3ff;
+}
+
+.navbar-custom .dropdown-menu {
+    background-color: #343a40;
+}
+
+.navbar-custom .dropdown-menu a {
+    color: #f8f9fa;
+}
+
+.navbar-custom .dropdown-menu a:hover {
+    color: #007bff;
+}
+
+.navbar-custom .navbar-brand svg {
+    fill: #f8f9fa;
+    margin-right: 0.5rem;
+}

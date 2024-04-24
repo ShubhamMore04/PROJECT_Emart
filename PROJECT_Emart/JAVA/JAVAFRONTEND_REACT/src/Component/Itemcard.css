@@ -1,0 +1,4 @@
+.card-image {
+    max-height: 200px; /* Adjust this value based on your needs */
+    object-fit: cover; /* This makes the image cover the available space without stretching */
+  }

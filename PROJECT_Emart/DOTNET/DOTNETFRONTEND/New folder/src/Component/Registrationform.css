@@ -1,0 +1,127 @@
+.App {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #1c92d2, #f2fcfe); /* Nice gradient background */
+}
+
+h1 {
+  text-align: center;
+  color: #4D6D7F;
+}
+
+form {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+}
+
+label {
+  margin-bottom: 5px;
+  height: 22px;
+  color: #4D6D7F;
+}
+
+input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid #777;
+  box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.1);
+}
+
+input.error {
+  border-color: red;
+}
+
+.input-feedback {
+  color: rgb(235, 54, 54);
+  margin-top: -15px;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.btnRegister {
+  padding: 10px 20px;
+  background-color: #5bffe9;
+  color: white;
+  border: none;
+  transition: ease-in-out background-color 250ms, ease-in-out color 250ms;
+  border-radius: 3px;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.btnRegister:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #4D6D7F;
+}
+
+#invalidtokencard {
+  display: block;
+  margin: auto;
+  margin-top: 150px;
+  width: 50%;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+label,
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px; /* Add margin-bottom to give spacing between fields */
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.btn-primary {
+  background-color: #4D6D7F;
+  color: white;
+  border: none;
+  transition: ease-in-out background-color 250ms, ease-in-out color 250ms;
+}
+
+.btn-primary:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #4D6D7F;
+}
+
+.btn-secondary {
+  background-color: #777;
+  color: white;
+  border: none;
+  transition: ease-in-out background-color 250ms, ease-in-out color 250ms;
+}
+
+.btn-secondary:hover {
+  cursor: pointer;
+  background-color: white;
+  color: #777;
+}
+
+.btn-link {
+  background: none;
+  color: #4D6D7F;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btn-link:hover {
+  color: #1c92d2;
+}
